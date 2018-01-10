@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AMap3DMap (5.4.0):
+    - AMapFoundation (~> 1.3)
+  - AMapFoundation (1.4.2)
+  - AMapLocation (2.4.0):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (5.4.0):
+    - AMapFoundation (~> 1.4)
+  - ESPullToRefresh (2.6)
+  - Jelly (1.2.3)
+  - Kingfisher (4.1.0)
+  - pop (1.0.10)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - SpreadsheetView (0.8.4)
+  - SwiftyJSON (3.1.4)
+  - ZLPhotoBrowser (2.4.5):
+    - SDWebImage
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AMap3DMap
+  - AMapLocation
+  - AMapSearch
+  - ESPullToRefresh
+  - Jelly
+  - Kingfisher
+  - pop (~> 1.0)
+  - SpreadsheetView
+  - SwiftyJSON
+  - ZLPhotoBrowser
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AMap3DMap: 3eb906ac6b9d488413ab26c24f67eca4b4ad4641
+  AMapFoundation: 6c0471c9a6a0ad17dad46e3d800ad56ca170f82a
+  AMapLocation: 47b62b5381a66e4d0c2931b70ffde72682427896
+  AMapSearch: 97042f81c1c8ea8adc4b1dadf1b1a688210aa141
+  ESPullToRefresh: 85f4990acf87f78c6a1466bbbee7a75d7de24db9
+  Jelly: 471c401b62f86845db3d66dfaca29c89ab8cdcd2
+  Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  SpreadsheetView: 17c55b6dc82099993cc2ceb818248d19f3220998
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  ZLPhotoBrowser: 3572a51e99f1c1368ede5ac46fc05fa9602d7695
+
+PODFILE CHECKSUM: 5a6764d2a534bf9b1a4ef3a4313be634889fcb7f
+
+COCOAPODS: 1.2.1
