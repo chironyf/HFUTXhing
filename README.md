@@ -4,11 +4,14 @@
 - 项目中的第三方框架还包括SwiftyJSON, Kingfisher, ZLPhotoBrowser等
 
 ## 项目截图
-- 启动页面
+#### 启动页面
+
 ![](./images/init.png)
 
-- 校内地图
+#### 校内地图
+
 ![](./images/map.png)
 
-- 社区
+#### 社区
+
 ![](./images/com.png)
